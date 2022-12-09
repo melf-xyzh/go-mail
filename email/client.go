@@ -6,7 +6,7 @@
 package email
 
 import (
-	"github.com/melf-xyzh/go-email/constants"
+	"github.com/melf-xyzh/go-mail/constants"
 	"gorm.io/gorm"
 )
 
