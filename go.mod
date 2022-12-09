@@ -1,4 +1,4 @@
-module github.com/melf-xyzh/go-email
+module github.com/melf-xyzh/go-mail
 
 go 1.17
 
